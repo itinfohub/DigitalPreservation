@@ -24,3 +24,6 @@ ensure the following:
    - Lack of taken up of the capacility of DP facility by researchers
    - The other two legs wobble
    - Call for policies, strategies, procedures and staff resources to expedite the uptake of the DP infrastructure. 
+
+3. [David Rosenthal's Blog about Digital Preservation](https://blog.dshr.org/p/blog-page.html)
+   - 
