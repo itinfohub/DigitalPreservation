@@ -28,4 +28,4 @@ ensure the following:
 3. [David Rosenthal's Blog about Digital Preservation](https://blog.dshr.org/p/blog-page.html)
 
 
-4. Nicholas Taylor (2017). [Introduction to the Special Issue on Web Archiving](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1085&context=westernarchives) Taylor,  Journal of Western Archives: Vol. 8 : Iss. 2 , Article 1. DOI: https://doi.org/10.26077/09a6-10b7
+4. Nicholas Taylor (2017). [Introduction to the Special Issue on Web Archiving](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1085&context=westernarchives),  Journal of Western Archives: Vol. 8 : Iss. 2 , Article 1. DOI: https://doi.org/10.26077/09a6-10b7
