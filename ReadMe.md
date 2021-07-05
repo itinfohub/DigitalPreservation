@@ -26,4 +26,6 @@ ensure the following:
    - Call for policies, strategies, procedures and staff resources to expedite the uptake of the DP infrastructure. 
 
 3. [David Rosenthal's Blog about Digital Preservation](https://blog.dshr.org/p/blog-page.html)
-   - 
+
+
+4. Nicholas Taylor, [Introduction to the Special Issue on Web Archiving](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1085&context=westernarchives)
