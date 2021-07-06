@@ -29,3 +29,9 @@ ensure the following:
 
 
 4. Nicholas Taylor (2017). [Introduction to the Special Issue on Web Archiving](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=1085&context=westernarchives),  Journal of Western Archives: Vol. 8 : Iss. 2 , Article 1. DOI: https://doi.org/10.26077/09a6-10b7
+
+5. Dene Grigar, Electronic Literature Lab, Washington State University, 
+    - Lab http://dtc-wsuv.org/wp/ell/
+    - The catalogue: https://dtc-wsuv.org/ell-catalog/site2/
+
+6. John Durno, University of Victoria
