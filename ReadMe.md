@@ -35,3 +35,6 @@ ensure the following:
     - The catalogue: https://dtc-wsuv.org/ell-catalog/site2/
 
 6. John Durno, University of Victoria
+   - [Kryoflux](https://www.kryoflux.com/)
+   - Telidon
+   - Minitel
