@@ -39,3 +39,7 @@ ensure the following:
    - [Kryoflux](https://www.kryoflux.com/)
    - Telidon
    - Minitel
+
+8. Askey, D. & Ruest, N. (2016). Ontario Library Research Cloud: From Idea to Infrastructure in Three Easy Years. https://macsphere.mcmaster.ca/bitstream/11375/19543/1/OLRC_Askey_Ruest.pdf
+
+
