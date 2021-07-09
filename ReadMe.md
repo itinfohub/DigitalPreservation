@@ -43,3 +43,23 @@ ensure the following:
 8. Askey, D. & Ruest, N. (2016). Ontario Library Research Cloud: From Idea to Infrastructure in Three Easy Years. https://macsphere.mcmaster.ca/bitstream/11375/19543/1/OLRC_Askey_Ruest.pdf
 
 
+9. Neugebauer, T., Lasou, P., Kosavic, A., & Walsh, T. (2019). Digital Preservation Functionality in Canadian Repositories, https://www.carl-abrc.ca/wp-content/uploads/2019/12/orwg_report2_preservation_repos_en.pdf
+
+10. Rodrigues, E., & Shearer, K. (2017). Next generation repositories: Behaviours and technical
+recommendations of the COAR Next Generation Repositories Working Group.
+https://www.coar-repositories.org/files/NGR-Final-Formatted-Report-cc.pdf
+
+11 Qasim, U., Davis, C., Garnett, A., Marks, S., & Moosberger, M. (2018). Research data
+preservation in Canada: A white paper. https://portagenetwork.ca/wpcontent/uploads/2018/05/Portage-PEG-WhitePaper-EN.pdf
+
+12. National Digital Stewardship Alliance – Digital Library Federation. (2019). Levels of digital
+preservation v2.0. https://ndsa.org/activities/levels-of-digital-preservation/
+
+13. OAIS (2012) CCSDS 650.0-M-2: Reference model for an open archival information system
+(OAIS). Magenta Book. Issue 1. June 2012 (ISO 14721:2003)
+
+14. Chris Dobson. (2005). From bright idea to beta test: a story of LOCKSS. https://web.stanford.edu/group/lockss/history/From_Bright_Idea_to_Beta_Test.pdf
+
+15. Rosenthal, D. S. H., Robertsoni, T., Lipkisii T., Reichi V., Morabitoi, S. (2005). Requirements for
+digital preservation systems : A bottom-up approach. D-Lib Magazine, 11(11).
+http://www.dlib.org/dlib/november05/rosenthal/11rosenthal.html
