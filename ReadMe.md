@@ -72,4 +72,25 @@ preservation v2.0. https://ndsa.org/activities/levels-of-digital-preservation/
 15. Rosenthal, D. S. H., Robertsoni, T., Lipkisii T., Reichi V., Morabitoi, S. (2005). Requirements for
 digital preservation systems : A bottom-up approach. D-Lib Magazine, 11(11).
 http://www.dlib.org/dlib/november05/rosenthal/11rosenthal.html
+   - Threats to DP:
+      - Media Failure
+      - Hardware Failure
+      - Software Failure
+      - Communication Failure
+      - Network Service Failure
+      - Economic Failure
+      - Organization Failure
+      - Hardware Obosolesence
+      - Software Obsolesence
+      - Operator Error
+      - External and Internal Attacks
+      - Natural Diaster
+   - Strategies to Survive the above threats
+     - Replication
+     - Migration
+     - Transparency
+     - Audit
+     - Diversity
+     - Economy
+     - Sloth
 
