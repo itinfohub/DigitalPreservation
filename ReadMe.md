@@ -63,3 +63,6 @@ preservation v2.0. https://ndsa.org/activities/levels-of-digital-preservation/
 15. Rosenthal, D. S. H., Robertsoni, T., Lipkisii T., Reichi V., Morabitoi, S. (2005). Requirements for
 digital preservation systems : A bottom-up approach. D-Lib Magazine, 11(11).
 http://www.dlib.org/dlib/november05/rosenthal/11rosenthal.html
+
+16. National Digital Stewardship Alliance – Digital Library Federation. (2019). Levels of digital
+preservation v2.0. https://ndsa.org/activities/levels-of-digital-preservation/
