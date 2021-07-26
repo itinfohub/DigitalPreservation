@@ -1,14 +1,14 @@
 # Archivematica
 
-An open source software package that powers digital preservation practices. It follows OAIS reference model and implement it in the
-package. 
+[Archivematica](https://www.archivematica.org/en/) is an open source software package that powers digital preservation practices. It follows OAIS reference model and implement it in the package. 
 
-# Installation
+## Installation
 
 - We installed it on Ubuntu 20.04 LTS
-- Followed the docker container approach
+- [Followed the docker container approach]()
+- [Also installed with VirtualBox, Vagrant and Ansible](https://www.archivematica.org/en/docs/archivematica-1.13/admin-manual/installation-setup/installation/install-ansible/#install-ansible)
 
-# Containers running 
+### Containers running 
 
 |CONTAINER ID|   IMAGE |                                                 COMMAND   |      PORTS |
 |:---|:---|:---|:---|
@@ -22,3 +22,6 @@ package.
 |fe2021b7148e |  nginx:stable-alpine                 |                  "/docker-entrypoint.…" | 0.0.0.0:62080->80/tcp, 0.0.0.0:62081->8000/tcp |
 |b9de4cbf1c78 |  artefactual/fits-ngserver:0.8.4      |                 "/usr/bin/fits-ngser…" | 127.0.0.1:62005->2113/tcp |
 |396ec1676a68 |  percona:5.6                           |                "/docker-entrypoint.…" |   127.0.0.1:62001->3306/tcp |
+
+
+### 
