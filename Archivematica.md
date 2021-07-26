@@ -1,6 +1,6 @@
 # Archivematica
 
-[Archivematica](https://www.archivematica.org/en/) is an open source software package that powers digital preservation practices. It follows OAIS reference model and implement it in the package. 
+[Archivematica](https://www.archivematica.org/en/) is a free and open source software (FOSS) package that facilitate digital preservation practices. It follows OAIS reference model and implement it in the package. 
 
 ## Installation
 
@@ -35,3 +35,7 @@
     - Adminstration
     
     A relatively old but still relevant tutorial of how to use Archivematica can be found [here](https://www.youtube.com/watch?v=dm6AnHItlo8)
+    
+- More about Archivematica
+    -  [Workflow of Archivematica](https://www.youtube.com/watch?v=EjStNDXK48U)
+   
