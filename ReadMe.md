@@ -94,5 +94,5 @@ http://www.dlib.org/dlib/november05/rosenthal/11rosenthal.html
 >     - Economy
 >     - Sloth
 
-16. [https://dpworkshop.org/dpm-eng/eng_index.html](Digital Preservation Management: Workshop/Tutorial)
-17. [https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/repositories-1.pdf](Trusted Digital Repository: Attributes and Responsibilities)
+16. [Digital Preservation Management: Workshop/Tutorial](https://dpworkshop.org/dpm-eng/eng_index.html)
+17. [Trusted Digital Repository: Attributes and Responsibilities](https://prd-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/atoms/files/repositories-1.pdf)
